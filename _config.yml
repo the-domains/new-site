@@ -1,0 +1,28 @@
+name: new site
+favicon: null
+layout_spectrum: 0.9445517037529498
+typography_spectrum: 0.9780260731931776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4781917368527502
+  lightness: 0.0545835813973099
+  saturation: 0.4862580250483006
+  rhythmicContrast: 0.2949358681216836
+purpose: []
